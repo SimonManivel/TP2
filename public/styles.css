@@ -1,0 +1,139 @@
+body {
+    padding-top: 126px;
+    background-color: black;
+    background-image: url(http://autoguide.com.vsassets.com/blog/wp-content/gallery/2016-lamborghini-huracan-lp-610-4-spyder-review/2016-Lamborghini-Huracan-LP-610-4-Spyder-Review-4.jpg);
+    background-size: cover;
+
+	display: block;
+    width: 700px;
+    margin: 50px auto 66px;
+
+    font-family: 'Roboto Condensed',sans-serif;
+    color: white;
+    font-size: 50px;
+    line-height: 20px;
+    text-align: center;
+}
+
+.title {
+	font-size: 50px;
+	font-family: 'Roboto Condensed',sans-serif;
+}
+
+
+
+.model {
+	background: #333;
+	color: #ccc;
+	width: 100px;
+	padding: 6px 15px 6px 35px;
+	transition: 500ms all ease;
+	border: 1px solid #333;
+}
+
+.price-by-day {
+	background: #333;
+	color: #ccc;
+	width: 100px;
+	padding: 6px 15px 6px 35px;
+	transition: 500ms all ease;
+	border: 1px solid #333;
+}
+
+.price-by-km {
+	background: #333;
+	color: #ccc;
+	width: 100px;
+	padding: 6px 15px 6px 35px;
+	transition: 500ms all ease;
+	border: 1px solid #333;
+}
+
+.begin {
+	background: #333;
+	color: #ccc;
+	width: 100px;
+	padding: 6px 15px 6px 35px;
+	transition: 500ms all ease;
+	border: 1px solid #333;
+}
+
+.end {
+	background: #333;
+	color: #ccc;
+	width: 100px;
+	padding: 6px 15px 6px 35px;
+	transition: 500ms all ease;
+	border: 1px solid #333;
+}
+
+.distance {
+	background: #333;
+	color: #ccc;
+	width: 100px;
+	padding: 6px 15px 6px 35px;
+	transition: 500ms all ease;
+	border: 1px solid #333;
+}
+
+.option {
+	background: #333;
+	color: #ccc;
+	width: 100px;
+	padding: 6px 15px 6px 35px;
+	transition: 500ms all ease;
+	border: 1px solid #333;
+}
+
+
+#car
+{
+color: #ccc;
+width: 700px;
+border-radius: 20px;
+box-shadow: 0 1px 0 #ccc inset;
+transition:500ms all ease;
+}
+#car:hover
+{
+line-height:60px;
+}
+
+#rental
+{
+color: #ccc;
+width: 700px;
+border-radius: 20px;
+box-shadow: 0 1px 0 #ccc inset;
+transition:500ms all ease;
+}
+#rental:hover
+{
+line-height:60px;
+}
+
+
+
+
+#compute {
+    display: block;
+    height: 54px;
+    padding: 4px 29px;
+    margin-left: 250px;
+    border: 3px solid white;
+    background-color: transparent;
+    -webkit-transition: background-color 300ms ease,color 300ms ease;
+    -o-transition: background-color 300ms ease,color 300ms ease;
+    transition: background-color 300ms ease,color 300ms ease;
+    color: white;
+    font-size: 22px;
+    font-weight: 700;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+#compute:hover
+{
+line-height:50px;
+}
+
